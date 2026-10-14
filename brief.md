@@ -44,4 +44,11 @@ Resource: European Data Protection Board — Anonymisation / Pseudonymisation �
 
 
 ##Misconception in My Track
+
+A common misconception is that IPv6 is simply a faster version of IPv4. In reality, the main difference is the address size: IPv4 uses 32-bit addresses, while IPv6 uses 128-bit addresses. IPv6 provides a much larger address space to support the growing number of connected devices. The Internet Protocol, Version 6 (IPv6) Specification explains the IPv6 protocol and its addressing structure. This shows that IPv6 is mainly important for addressing capacity and network scalability, not just speed.
+
+Resource evidence: RFC 8200, “Internet Protocol, Version 6 (IPv6) Specification,” sections 2 and 3 — https://www.rfc-editor.org/rfc/rfc8200
+
 ##Open Question
+
+How can organizations migrate from IPv4 to IPv6 while keeping existing services available and secure?
